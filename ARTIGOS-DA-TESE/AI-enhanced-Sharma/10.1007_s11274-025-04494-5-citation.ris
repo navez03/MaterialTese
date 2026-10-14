@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Sharma, Deepankar
+AU  - Singh, Kavita
+PY  - 2025
+DA  - 2025/07/28
+TI  - AI-enhanced bioprocess technologies: machine learning implementations from upstream to downstream operations
+JO  - World Journal of Microbiology and Biotechnology
+SP  - 278
+VL  - 41
+IS  - 8
+AB  - Industrial bioprocesses have forged ahead in recent decades by harnessing the unmatched potential of microorganisms for bioenergy, biochemicals, pharmaceuticals, and food sectors. Any bioprocess technology involves complex upstream and downstream operations, which effectively generate large volumes of complex information across each stage of unit operation. The incorporation of machine learning practices in bioprocess technologies is one of the paradigm shifts that has led to recent advancements. The diverse ML algorithms possess the outstanding capabilities to harness the non-linear relationships and meaningful patterns that are incompletely interpreted using conventional methods. The present review is an up-to-date, in-depth approach that starts with the utilization of machine learning in upstream and downstream operations of bioprocesses. This is followed by describing the methodology of a typical ML workflow, various ML algorithms available and the real-world examples of ML applications that are reported for bioprocess technologies. The major areas covered include the utilization of ML for enhancing the biofuel and biorefinery bioprocesses, pharmaceutical bioprocesses, biochemicals production and optimization, fermented food and beverages bioprocess technologies and the use of ML for monitoring and control of bioprocesses. Moreover, the patents registered on the use of machine learning in bioprocess development are also discussed. The present review provides valuable suggestions for the deployment of diverse ML methodologies for enhancing the purity, yield and productivity of bioprocesses, soft sensors development and utilization of hybrid modeling approach for enhancing the ML- guided monitoring and control of bioprocesses.
+SN  - 1573-0972
+UR  - https://doi.org/10.1007/s11274-025-04494-5
+DO  - 10.1007/s11274-025-04494-5
+ID  - Sharma2025
+ER  - 
