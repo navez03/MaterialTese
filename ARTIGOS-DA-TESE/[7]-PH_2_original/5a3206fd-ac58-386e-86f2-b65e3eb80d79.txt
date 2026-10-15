@@ -1,0 +1,14 @@
+@article{5a3206fd-ac58-386e-86f2-b65e3eb80d79,
+ ISSN = {01718630, 16161599},
+ URL = {http://www.jstor.org/stable/24846171},
+ abstract = {This study examines the growth and photosynthetic response of marine phytoplankton to a naturally occurring range of pH's. Growth rates were determined for Thalassiosira pseudonana and Thalassiosira oceanica via in vivo fluorescence measurements; photosynthetic rates were measured via 14carbon uptake using mesocosm tank assemblages of phytoplankton. A pH range of 7.0 to 9.4 was used for both sets of experiments and consistent declines of growth rate and photosynthesis were observed at high pH levels (>pH 8.8). The pH response of the 2 phytoplankton species and the tank assemblages appeared to correlate with calculated concentrations of free carbon dioxide indicating a possible carbon substrate limitation at high pH. Half-aturation values for calculated [CO2] were determined for cell growth rates and for photosynthesis using the Monod equation (Kμ = 0.5 μM) and Michaelis-Menten equation (Ks = 1.3 μM), respectively. These values were within the range of values measured for phytoplankton in previous studies. Based on this evidence, it is suggested that at high pH levels the availability of CO2 may become limiting to marine phytoplankton growth and photosynthesis.},
+ author = {Celia Y. Chen and Edward G. Durbin},
+ journal = {Marine Ecology Progress Series},
+ number = {1},
+ pages = {83--94},
+ publisher = {Inter-Research Science Center},
+ title = {Effects of pH on the growth and carbon uptake of marine phytoplankton},
+ urldate = {2026-10-15},
+ volume = {109},
+ year = {1994}
+}
