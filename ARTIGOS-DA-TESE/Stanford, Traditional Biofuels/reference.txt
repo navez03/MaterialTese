@@ -1,0 +1,9 @@
+@techreport{IEA2022BiofuelFeedstock,
+  author      = {{International Energy Agency}},
+  title       = {Is the biofuel industry approaching a feedstock crunch?},
+  institution = {IEA},
+  address     = {Paris},
+  year        = {2022},
+  url         = {https://www.iea.org/reports/is-the-biofuel-industry-approaching-a-feedstock-crunch},
+  note        = {Licence: CC BY 4.0}
+}
